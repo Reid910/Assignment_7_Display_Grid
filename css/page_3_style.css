@@ -15,10 +15,7 @@ Combine styles from page_1_style and page_2_style
 */
 
 #container {
-    
     padding: 5px;
-    
-
     background-color:rosybrown;
     display: grid;
 }
@@ -30,7 +27,7 @@ Combine styles from page_1_style and page_2_style
     padding: 5px 0;
     background-color: lightskyblue;
     width: 80%;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .item {
